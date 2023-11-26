@@ -42,7 +42,7 @@ https://github.com/deepceptai/Text-to-Video-Synthesis-with-Telegram/assets/96874
 
 **References**
 
-ModelScope Text to Video Synthesis: [HuggingFace](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis)
-Creating telegram bot: https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
-Creating telegram bot using HuggingFace Inference API: https://cobusgreyling.medium.com/create-a-telegram-qna-chatbot-using-huggingface-inference-api-324049336557
+1. ModelScope Text to Video Synthesis: [HuggingFace](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis)
+2. Creating telegram bot: https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
+3. Creating telegram bot using HuggingFace Inference API: https://cobusgreyling.medium.com/create-a-telegram-qna-chatbot-using-huggingface-inference-api-324049336557
 
